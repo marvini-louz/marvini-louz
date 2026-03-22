@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @marvini-louz
 - 👦🏻 My name is Marcelo
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Full Stack
 - 📫 How to reach me mvinicius.louza@gmail.com
-- 👾 I'm begginer codder in Python
+- 👾 I'm begginer codder in Python and Full Stack
 
 
 **DISCLAIMER**
