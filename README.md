@@ -16,3 +16,5 @@ pt-br
 en-us
 **IMPORTANT**\
 **I am not responsible for any type of use that violates ethical principles for or by you, all my content is for didactic use.**
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/687c342fd8402b4cbd711eb4?variant=dark" alt="roadmap.sh"/></a>
